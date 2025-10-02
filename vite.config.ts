@@ -7,4 +7,16 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  build: {
+    minify: 'esbuild',
+    cssMinify: true,
+    rollupOptions: {
+      output: {
+        manualChunks: undefined,
+        format: 'es'
+      }
+    },
+    target: 'es2015',
+    assetsDir: 'assets'
+  }
 });
