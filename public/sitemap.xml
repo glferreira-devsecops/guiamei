@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  
+  <!-- Página Principal - Guia MEI 2025 -->
+  <url>
+    <loc>https://pay.cakto.com.br/uh6tbcm_590320</loc>
+    <lastmod>2025-01-20T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <mobile:mobile/>
+    
+    <!-- Imagens para SEO -->
+    <image:image>
+      <image:loc>https://pay.cakto.com.br/images/mei-2025-guia-completo.jpg</image:loc>
+      <image:title>Guia Prático MEI Completo 2025</image:title>
+      <image:caption>Como abrir MEI em 2025 - Guia completo passo a passo</image:caption>
+      <image:geo_location>Brasil</image:geo_location>
+      <image:license>https://pay.cakto.com.br/licenca</image:license>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://pay.cakto.com.br/images/como-abrir-mei-2025.jpg</image:loc>
+      <image:title>Como Abrir MEI 2025</image:title>
+      <image:caption>Passo a passo para formalizar seu negócio como MEI</image:caption>
+      <image:geo_location>Brasil</image:geo_location>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://pay.cakto.com.br/images/beneficios-mei-2025.jpg</image:loc>
+      <image:title>Benefícios do MEI 2025</image:title>
+      <image:caption>Todas as vantagens de ser Microempreendedor Individual</image:caption>
+      <image:geo_location>Brasil</image:geo_location>
+    </image:image>
+    
+    <!-- Alternativas de idioma (hreflang) -->
+    <xhtml:link rel="alternate" hreflang="pt-br" href="https://pay.cakto.com.br/uh6tbcm_590320" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://pay.cakto.com.br/uh6tbcm_590320" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pay.cakto.com.br/uh6tbcm_590320" />
+  </url>
+  
+  <!-- Páginas Secundárias (se existirem) -->
+  <url>
+    <loc>https://pay.cakto.com.br/</loc>
+    <lastmod>2025-01-20T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <mobile:mobile/>
+  </url>
+  
+  <url>
+    <loc>https://pay.cakto.com.br/guias</loc>
+    <lastmod>2025-01-20T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <mobile:mobile/>
+  </url>
+  
+  <url>
+    <loc>https://pay.cakto.com.br/sobre</loc>
+    <lastmod>2025-01-15T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <mobile:mobile/>
+  </url>
+  
+  <url>
+    <loc>https://pay.cakto.com.br/contato</loc>
+    <lastmod>2025-01-15T10:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <mobile:mobile/>
+  </url>
+  
+  <url>
+    <loc>https://pay.cakto.com.br/termos</loc>
+    <lastmod>2025-01-01T10:00:00+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>https://pay.cakto.com.br/privacidade</loc>
+    <lastmod>2025-01-01T10:00:00+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>
